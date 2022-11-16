@@ -1,20 +1,12 @@
-
-.cr{
+.cr {
     text-align: center;
     color: grey;
 }
 
-.esq{
+.esq {
     text-align: left;
 }
 
 
-img .palmeira-s {
-        background: linear-gradient(to right, #11998e, #38ef7d) border-box;
-        color: #181818;
-        padding: 2px;
-        border: 5px solid transparent;
-        border-radius: 50%;
-        display: inline-block;
-        margin: 20px 0;
-}
+
+
